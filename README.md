@@ -19,3 +19,8 @@ Predict Images: from Google Search Images
 **Model:**
 
 AccidentDetectionV1: using Keras Inception v3
+
+**Use Case: **
+- Security Camera
+
+- Internet of Things (IoT)
