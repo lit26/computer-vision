@@ -1,4 +1,4 @@
-# AccidentDetection (Ongoing project)
+# AccidentDetection
 Detecting fire, robbery and safe using deep neural network Keras Inception v3
 - DataProcessing.ipynb: split the dataset into training directory and testing directory which contains each classes.
 - AccidentDetectionV1.ipynb: using Keras Inception V3 model to train the dataset. 
